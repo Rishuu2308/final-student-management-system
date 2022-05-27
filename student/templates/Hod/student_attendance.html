@@ -1,0 +1,23 @@
+{% extends 'base.html' %} {% block content %}
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Student</th>
+      <th scope="col">Log Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for i in attendance %}
+        <tr>
+            <th scope="row">{{forloop.counter}}</th>
+            <td>{{i.0}}</td>
+            <td>{{i.1}}</td>
+        </tr> 
+    {% endfor %}
+  </tbody>
+</table>
+
+
+
+{% include 'includes/chart.html' %} {% endblock %}
