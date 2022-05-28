@@ -40,7 +40,7 @@ For logging into the system, you'll need an email address and a password.
 1.install the required libraries(requirements.txt) using the command:
   pip3 install -r requirements.txt
 
-  and run the following command in the command prompt:
+  and run the following command in the command prompt (make sure you are in student directory of project):
   python manage.py runserver
 
 2.Click on Take Attendance after logging in with the staff email address and password.
