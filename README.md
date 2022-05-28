@@ -29,9 +29,9 @@ For logging into the system, you'll need an email address and a password.
 
 ## Project specifications
 
-• Visual Studio Installer
+1.Visual Studio Installer
 • /image..sc
-• Your photo must be in jpg format and saved in the student_images folder with your name (ex. Rishika.jpg).
+2.Your photo must be in jpg format and saved in the student_images folder with your name (ex. Rishika.jpg).
 
 ## Running / Way to Execute
 
