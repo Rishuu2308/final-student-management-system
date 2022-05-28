@@ -47,3 +47,5 @@ For logging into the system, you'll need an email address and a password.
 
 3.To create your own credential for logging into the application:
   python manage.py createsuperuser 
+  
+4.After taking attendance, we must hit the Esc key to switch off the cemra.
