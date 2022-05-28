@@ -1,1 +1,0 @@
-# final-student-management-system
