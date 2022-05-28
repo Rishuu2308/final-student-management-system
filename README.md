@@ -45,5 +45,5 @@ For logging into the system, you'll need an email address and a password.
 
 2.Click on Take Attendance after logging in with the staff email address and password.
 
-3.To create your own credential for logging into the application
+3.To create your own credential for logging into the application:
   python manage.py createsuperuser 
