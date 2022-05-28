@@ -30,7 +30,9 @@ For logging into the system, you'll need an email address and a password.
 ## Project specifications
 
 1.Visual Studio Installer
-• /image..sc
+
+![visual studio](https://user-images.githubusercontent.com/104299247/170819588-4e2d10b3-2779-4431-9785-e73134844b30.jpg)
+
 2.Your photo must be in jpg format and saved in the student_images folder with your name (ex. Rishika.jpg).
 
 ## Running / Way to Execute
